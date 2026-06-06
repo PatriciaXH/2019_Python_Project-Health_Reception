@@ -1,4 +1,4 @@
-# Program to calculate Body Mass Index (BMI) and other calculations related to Body Mass Index
+# Programme to calculate Body Mass Index (BMI) and other calculations related to Body Mass Index
 
 # Declaration of variables and constants
 # Input
