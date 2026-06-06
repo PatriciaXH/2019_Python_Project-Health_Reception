@@ -1,6 +1,6 @@
-# Atur cara bagi mengira Body Mass Index (BMI) dan pengiraan lain yang berkaitan dengan Body Mass Index
+# Program to calculate Body Mass Index (BMI) and other calculations related to Body Mass Index
 
-# Pengisytiharan pemboleh ubah dan pemalar
+# Declaration of variables and constants
 # Input
 con = 1
 
